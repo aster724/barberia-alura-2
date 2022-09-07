@@ -1,0 +1,22 @@
+
+header{
+    background-color: #bbbbbb;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+        
+}
+
+nav a{
+    text-transform: uppercase;
+    color: black;
+    font-weight:  bold;
+    font-size: 22px;
+    text-decoration: none;
+}
