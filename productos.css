@@ -80,3 +80,9 @@ nav a:hover{
     font-weight: bold;
     margin-top: 10px;
 }
+
+footer{
+    align-items: center;
+    background-image: url(./imagenes/bg.jpg);
+    padding: 40px;
+}
