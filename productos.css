@@ -1,11 +1,21 @@
 
 header{
     background-color: #bbbbbb;
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
+    padding: 20px, 0;
+    
 }
 
+.caja{
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
+}
+
+nav{
+    position: absolute;
+    top:   110px;
+    right: 0px;
+}
 
 nav li{
     display: inline;
@@ -15,7 +25,7 @@ nav li{
 
 nav a{
     text-transform: uppercase;
-    color: black;
+    color: rgb(0, 0, 0);
     font-weight:  bold;
     font-size: 22px;
     text-decoration: none;
