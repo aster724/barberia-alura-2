@@ -1,6 +1,7 @@
-# barberia-alura-2
-programa de css y html
+# Barberia-Alura-2
 
-en esta pagina vamos a ver los avances de html y css aplicados al curso de alura, junto a la secuencia aplicada de github.
+Programa de CSS3 y HTML
+
+En esta pagina vamos a ver los avances de html y css aplicados al curso de alura, junto a la secuencia aplicada de github.
 
 
