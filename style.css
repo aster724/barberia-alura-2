@@ -161,6 +161,7 @@ td,th{
     font-size: 2em;
     margin: 0 0 1em;
     clear: left;
+    color: rgba(0,0, 0, 0.3);
 }
 .titulo-principal::first-letter{
     font-weight: bold;
@@ -224,6 +225,11 @@ p::first-line{
 
 .imagen-diferenciales{
     width: 60%;
+    transition: 400ms;
+    
+}
+.imagen-diferenciales:hover{
+    opacity: 0.3;
 }
 .video{
     width: 560px;
