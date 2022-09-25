@@ -161,8 +161,9 @@ td,th{
     font-size: 2em;
     margin: 0 0 1em;
     clear: left;
-    color: rgba(0,0, 0, 0.3);
-}
+   /*/text-shadow: 2px 2px 10px red;*/sombras
+}   
+
 .titulo-principal::first-letter{
     font-weight: bold;
 }
@@ -226,6 +227,7 @@ p::first-line{
 .imagen-diferenciales{
     width: 60%;
     transition: 400ms;
+    box-shadow: 10px 10px 30px 15px black;
     
 }
 .imagen-diferenciales:hover{
